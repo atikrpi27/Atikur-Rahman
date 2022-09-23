@@ -25,51 +25,46 @@
 
 <h3 align="left">Language, framework and technology that I like:</h3>
 <table>
-		<tr>
-			<td align="center">
-				<img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-				<br>Python
-			</td>
-			<td align="center">
-				<img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-				<br>Django
-			</td>
-			<td align="center">
-				<img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-				<br>Javascript
-			</td>
-			<td align="center">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"height="64"/>
-				<br>react
-			</td>
-			<td align="center">
-				<img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-				<br>Bootstrap
-			</td>
-			<td align="center">
-				<img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-				<br>jQuery
-			</td>
-			<td align="center">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
-				<br>HTML
-			</td>
-      <td align="center">
-				<img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="90px" height="64px"/>
-				<br>CSS
-			</td>
-			<td align="center">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="64px"/>
-				<br>mongodb
-			</td>
-			<td align="center">
-				<img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-				<br>MySQL
-			</td>
-		</tr>
-	</table>
-<p><img align="left" width="235px" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikrpi27&show_icons=true&locale=en&layout=compact" alt="atikrpi27"/></p>
-
-<p>&nbsp;<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api?username=atikrpi27&show_icons=true&locale=en" alt="atikrpi27"/></p>
-
-<p>&nbsp;<img align="center" width="245px" src="https://github-readme-streak-stats.herokuapp.com/?user=atikrpi27&" alt="atikrpi27" /></p>
+	<tr>
+		<td align="center">
+			<img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+			<br>Python
+		</td>
+		<td align="center">
+			<img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+			<br>Django
+		</td>
+		<td align="center">
+			<img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+			<br>Javascript
+		</td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"height="64"/>
+			<br>react
+		</td>
+		<td align="center">
+			<img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+			<br>Bootstrap
+		</td>
+		<td align="center">
+			<img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+			<br>jQuery
+		</td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
+			<br>HTML
+		</td>
+      	<td align="center">
+			<img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="85px" height="64px"/>
+			<br>CSS
+		</td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="64px"/>
+			<br>mongodb
+		</td>
+		<td align="center">
+			<img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+			<br>MySQL
+		</td>
+	</tr>
+</table>
